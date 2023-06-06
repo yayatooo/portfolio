@@ -56,10 +56,10 @@ export const projects = [
   {
     id: 1,
     tittle: "Rifqi Showroom",
-    desc: "this my first web i work as team with my friend, to make web management system",
+    desc: "this my first web i work as team with my friend, to make web management system for client",
     link: "https://github.com/yayatooo/rifqi-showroom.git",
     image: "./assets/rifqimotor.png",
-    tech: "Next, Tailwind, Toaster",
+    tech: "Next, Tailwind, Prisma",
     live: "https://rifqi-showroom-8d3kksgzn-yayatooo.vercel.app/",
   },
   {
