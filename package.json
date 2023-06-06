@@ -1,0 +1,29 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "10.4.14",
+    "classname": "^0.0.0",
+    "eslint": "8.40.0",
+    "eslint-config-next": "13.4.2",
+    "feather-icons": "^4.29.0",
+    "framer-motion": "^10.12.13",
+    "next": "13.4.2",
+    "postcss": "8.4.23",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-fast-marquee": "^1.6.0",
+    "react-scroll": "^1.8.9",
+    "tailwindcss": "3.3.2"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.5.4"
+  }
+}
