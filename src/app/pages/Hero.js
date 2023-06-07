@@ -15,7 +15,7 @@ const Hero = () => {
           className="w-10/12 mx-auto px-16"
           name="home"
         >
-          <h1 className="font-shellhead font-semibold text-primary text-4xl mobile:text-lg laptop:text-4xl">
+          <h1 className="font-shellhead font-semibold text-primary text-4xl mobile:text-lg mobile:text-center laptop:text-4xl laptop:text-left">
             Hello Mate ! <span className="text-secondary">I'm</span>
           </h1>
         </motion.div>
@@ -35,7 +35,7 @@ const Hero = () => {
           transition={{ duration: 1, ease: "easeInOut" }}
           className="w-10/12 mx-auto px-16 text-right"
         >
-          <h1 className="font-shellhead font-semibold text-primary text-4xl mobile:text-lg laptop:text-4xl">
+          <h1 className="font-shellhead font-semibold text-primary text-4xl mobile:text-sm mobile:text-center laptop:text-4xl laptop:text-right">
             FRONTEND <span className="text-secondary">DEVELOPER</span>
           </h1>
         </motion.div>
