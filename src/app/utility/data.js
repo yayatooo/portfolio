@@ -24,27 +24,20 @@ export const list = [
 export const experience = [
   {
     id: 1,
+    role: "Frontend Developer (Freelance)",
+    company: "Rifqi Showroom",
+    desc: "Make a web for manage a business showroom motorcylcles with my friend as a backend developer with NextJs and Prisma",
+    exp: "Apr - May 2023",
+  },
+  {
+    id: 2,
     role: "Intern",
     company: "class II Meteorogical BMKG Station Mutiara Palu",
     desc: "Make sure the weather tool still fly for inputing data of air pressure, sun temprature according to desistance. and make application forcasting fload in speciall area",
     exp: "Sept - Okt 2020",
   },
   {
-    id: 2,
-    role: "Student",
-    company: "STMIK Adhi Guna",
-    desc: "G.A.P 3.69",
-    exp: "Sept - Okt 2020",
-  },
-  {
     id: 3,
-    role: "Cashier",
-    company: "Gustiana Cahaya Poso",
-    desc: "Build and install cashier app and inputing data",
-    exp: "Des - Mar 2020 - 2021",
-  },
-  {
-    id: 4,
     role: "Admin",
     company: "Gustiana Cahaya Poso",
     desc: "Inputing income a day then calcuate, handle social media for costumer survice, maintenance cashier app etc",
