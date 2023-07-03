@@ -59,7 +59,7 @@ const About = () => {
           </p>
           <div className="flex items-start w-full items-center gap-x-4">
             <button className="w-2/12 bg-secondary rounded-full text-black-primary py-3 px-6 font-semibold mobile:w-full laptop:w-2/12">
-              <a href="https://www.cakeresume.com/pdf/s--_cEhGO-rE-eEGm-dRlESYg--/5EYWk.pdf">
+              <a href="https://kinobi.tech/resume/649f0c588d8bd3001d11b88b">
                 Download CV
               </a>
             </button>

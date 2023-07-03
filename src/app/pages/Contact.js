@@ -30,7 +30,9 @@ const Contact = () => {
           whileHover={{ scale: 1.1 }}
           className="w-1/12 mx-auto my-12 text-black-primary font-semibold py-3 px-6 rounded-lg border-2 border-black-primary mobile:w-5/12 laptop:w-2/12"
         >
-          Say Hi!
+          <a href="https://www.linkedin.com/in/rahmat-hidayat-2113a51a3/">
+            Say Hi!
+          </a>
         </motion.button>
       </div>
     </section>
