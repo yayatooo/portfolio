@@ -89,7 +89,7 @@ export const projects = [
     link: "https://github.com/yayatooo/poke-API-with-Modal",
     image: "./assets/poke-api.png",
     tech: "NextJS, Tailwind",
-    live: "https://movie-filtering.vercel.app/",
+    live: "https://poke-api-with-modal.vercel.app/",
   },
   {
     id: 6,
